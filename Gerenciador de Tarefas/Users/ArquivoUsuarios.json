@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "João da Silva",
+    "email": "joao@silva.com",
+    "senha": "123456",
+    "cargo": "Tech Leader"
+  },
+  {
+    "id": 2,
+    "nome": "Maria da Costa",
+    "email": "maria@costa.com",
+    "senha": "123456",
+    "cargo": "Desenvolvedor"
+  }
+]

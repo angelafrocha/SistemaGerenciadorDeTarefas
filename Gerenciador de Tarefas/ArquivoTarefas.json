@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "descricao": "Criar uma nova funcionalidade para o sistema",
+    "data_inicial": "2023-08-01",
+    "data_final": "2023-08-31",
+    "responsavel": 1,
+    "status": "Planejamento",
+    "relacao": null
+  },
+  {
+    "id": 2,
+    "descricao": "Corrigir um bug encontrado no sistema",
+    "data_inicial": "2023-08-01",
+    "data_final": "2023-08-15",
+    "responsavel": 2,
+    "status": "Em andamento",
+    "relacao": null
+  }
+]
